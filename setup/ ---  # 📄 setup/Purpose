@@ -1,7 +1,4 @@
-
----
-
-# 📄 setup/kali-setup.md
+# setup/kali-setup.md
 
 ```md
 # Kali Linux Setup
@@ -15,3 +12,33 @@
 ```bash
 sudo apt update
 sudo apt install nmap netcat-traditional metasploit-framework -y
+
+
+
+---
+
+# reports/incident-report-template.md
+
+```md
+# Incident Response Report
+
+## Incident Summary
+Describe what happened.
+
+## Timeline
+- Date
+- Time
+- Event
+
+## Indicators of Compromise
+- IP addresses
+- Logs
+- Commands
+
+## Impact Assessment
+Describe impact.
+
+## Containment & Mitigation
+Steps taken.
+
+## Lessons Learned
