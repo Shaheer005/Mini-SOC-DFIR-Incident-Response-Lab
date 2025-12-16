@@ -22,9 +22,9 @@ All activities are conducted in an isolated virtual environment for educational 
 
 | Machine | OS | Role | IP |
 |------|----|----|----|
-| Attacker | Kali Linux | Attack simulation | 192.168.2.120 |
-| Victim | Ubuntu Linux | Log source | 192.168.2.104 |
-| Optional Victim | Windows 10 | User endpoint | 192.168.2.150 |
+| Attacker | Kali Linux | Attack simulation | 192.xxx.x.xxx |
+| Victim | Ubuntu Linux | Log source | 192.xxx.x.xxx |
+| Optional Victim | Windows 10 | User endpoint | 192.xxx.x.xxx |
 
 ---
 
