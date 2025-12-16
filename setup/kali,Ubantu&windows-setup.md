@@ -2,8 +2,7 @@
 ```bash
 sudo apt update
 sudo apt install nmap netcat-traditional metasploit-framework -y
-yaml
-Copy code
+
 
 ---
 
@@ -16,8 +15,7 @@ sudo apt update
 sudo apt install auditd audispd-plugins -y
 sudo systemctl enable auditd
 sudo systemctl start auditd
-yaml
-Copy code
+
 
 ---
 
