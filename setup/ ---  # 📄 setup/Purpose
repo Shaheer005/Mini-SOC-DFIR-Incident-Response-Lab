@@ -1,0 +1,17 @@
+
+---
+
+# 📄 setup/kali-setup.md
+
+```md
+# Kali Linux Setup
+
+## Tools Installed
+- nmap
+- netcat
+- metasploit-framework
+
+## Commands
+```bash
+sudo apt update
+sudo apt install nmap netcat-traditional metasploit-framework -y
